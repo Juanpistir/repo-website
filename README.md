@@ -9,3 +9,7 @@ in all features that you wanna on your website!
 ## Adios
 
 i like the bread with chesse
+
+## local development 
+
+1. open index.html in yor browser
